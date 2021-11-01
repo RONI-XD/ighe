@@ -10,6 +10,6 @@ $ pip2 install requests bs4
 
 $ pip2 install futures
 
-$ cd ig
+$ cd ighe
 
 $ python2 insta.pyc
