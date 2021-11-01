@@ -4,7 +4,7 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/fozycomon/ig
+$ git clone https://github.com/fozycomon/ighe
 
 $ pip2 install requests bs4
 
